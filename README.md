@@ -56,4 +56,3 @@ In the ever-evolving landscape of cyber threats, staying vigilant and fortified 
 
 Remember: Strong cybersecurity is everyone's responsibility, and a collective commitment to security is the key to a resilient and secure digital future.
 
-[Add any additional instructions or notes specific to your organization if needed.]
